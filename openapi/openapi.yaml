@@ -39,7 +39,7 @@ info:
     interfaces have done for lower-level programming, OpenAPI removes the
     guesswork in calling the service.
 tags:
-  - name: Echo
+  - name: EASYPAY
     description: Example echo operations.
   - name: User
     description: Operations about users.
