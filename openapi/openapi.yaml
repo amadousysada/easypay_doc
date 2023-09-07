@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   version: 1.0.0
-  title: Example.com
+  title: EASYPAY
   termsOfService: https://example.com/terms/
   contact:
     email: contact@example.com
@@ -39,7 +39,7 @@ info:
     interfaces have done for lower-level programming, OpenAPI removes the
     guesswork in calling the service.
 tags:
-  - name: EASYPAY
+  - name: Echo
     description: Example echo operations.
   - name: User
     description: Operations about users.
